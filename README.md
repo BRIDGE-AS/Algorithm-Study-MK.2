@@ -20,3 +20,32 @@
   
 ---
 ## 이용 방법
+### Pull Request
+- 자신의 이름의 Branch를 만들고, 자신의 폴더 만든 다음 안에 코드를 Commit 합니다.
+- 풀이가 완료되면 `[이름] 해당 주차 마감일`로 Pull Requset를 올립니다. `ex) [장현] 23.05.07`
+- PR 내용은 기 작성된 템플릿에 맞추어 간단한 풀이 과정을 작성하면 됩니다.
+- Assigness로 자신을, Reviewers로 다른 스터디원들을 지정합니다.
+- 승인이 완료 되었을 경우 merge합니다.
+
+<details>
+<summary>Learn more</summary>
+추가 예정
+</details>
+
+### Review
+- 다른 스터디원의 코드를 리뷰합니다.
+- 궁금한 사항, 피드백, 칭찬 등의 내용을 작성합니다.
+- 리뷰가 끝났으면 승인 혹은 거절을 선택합니다.
+
+<details>
+<summary>Learn more</summary>
+추가 예정
+</details>
+
+### Discussion
+- 작성중
+
+<details>
+<summary>Learn more</summary>
+추가 예정
+</details>
