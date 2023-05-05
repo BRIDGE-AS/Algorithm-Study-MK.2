@@ -4,9 +4,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BRIDGE-AS/Algorithm-Study-MK.2&count_bg=%#0288D1&title_bg=%233B3B3B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
 
-- [스터디 방식](#스터디-방식)
-- [이용 방법](#이용-방법)
-
 ## 스터디 방식
 - 격주 단위로 스터디 진행자가 문제를 출제합니다. (첫 주 월~수)
 - 같은 알고리즘의 다른 난이도 문제를 2~3개 출제합니다.
@@ -25,17 +22,20 @@
 - 풀이가 완료되면 `[이름] 해당 주차 마감일`로 Pull Requset를 올립니다. `ex) [장현] 23.05.07`
 - PR 내용은 기 작성된 템플릿에 맞추어 간단한 풀이 과정을 작성하면 됩니다.
 - Assigness로 자신을, Reviewers로 다른 스터디원들을 지정합니다.
-- 승인이 완료 되었을 경우 merge합니다.
+- 승인이 완료 되었을 경우 병합합니다.
 
 <details>
 <summary>Learn more</summary>
-추가 예정
+<img src="https://user-images.githubusercontent.com/29997371/236583839-9f007903-5fc0-43ef-a289-e899ad5299f7.png">
+1. 자신의 이름으로 브랜치를 생성합니다. (최초 1회)
+2. 
+3. 
 </details>
 
 ### Review
 - 다른 스터디원의 코드를 리뷰합니다.
 - 궁금한 사항, 피드백, 칭찬 등의 내용을 작성합니다.
-- 리뷰가 끝났으면 승인 혹은 거절을 선택합니다.
+- 리뷰가 끝났으면 병합을 승인합니다.
 
 <details>
 <summary>Learn more</summary>
@@ -43,7 +43,7 @@
 </details>
 
 ### Discussion
-- 작성중
+- 추가 예정
 
 <details>
 <summary>Learn more</summary>
