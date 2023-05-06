@@ -51,7 +51,23 @@
 
 <details>
 <summary>Learn more</summary>
-추가 예정
+
+<img src="https://user-images.githubusercontent.com/29997371/236588729-9e67c043-6ba4-499d-99f6-91540e578b3c.png">
+
+1. Pull requests - File changed
+
+<img src="https://user-images.githubusercontent.com/29997371/236588869-c1d60a43-fe19-4ca4-acce-912d64a36a0d.png">
+
+2. 코멘트를 작성할 영역을 클릭 혹은 드래그하여 선택합니다.
+
+<img src="https://user-images.githubusercontent.com/29997371/236588922-83dfcc3f-92e5-457d-8168-494e47ce9481.png">
+
+3. 코멘트를 작성합니다.(피드백, 칭찬, 궁금한 사항 등)
+
+<img src="https://user-images.githubusercontent.com/29997371/236589053-c01d97b8-9c07-4b33-aad5-c540b07a2604.png">
+
+4. 코멘트를 모두 작성했으면 우측 상단에서 풀 리퀘스트의 병합을 승인합니다.
+
 </details>
 
 ### Discussion
