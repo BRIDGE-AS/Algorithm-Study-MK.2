@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Algorithm Study MK.2</h1>
   <p>오늘도 화이팅입니다!</p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BRIDGE-AS/Algorithm-Study-MK.2&count_bg=%#0288D1&title_bg=%233B3B3B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+
 </div>
 
 ## 스터디 방식
@@ -26,10 +26,22 @@
 
 <details>
 <summary>Learn more</summary>
-<img src="https://user-images.githubusercontent.com/29997371/236583839-9f007903-5fc0-43ef-a289-e899ad5299f7.png">
+<img src="https://user-images.githubusercontent.com/29997371/236584322-11688aff-d78f-4430-8b51-b41c5f2cd4c2.png">
+
 1. 자신의 이름으로 브랜치를 생성합니다. (최초 1회)
-2. 
-3. 
+
+<img src="https://user-images.githubusercontent.com/29997371/236585698-718a91f1-369d-48e9-b345-d9e35be83a60.png">
+
+2. 문제를 풀고 해당 브랜치에 커밋합니다.
+
+<img src="https://user-images.githubusercontent.com/29997371/236587009-5902a6b4-5c7f-4e2c-95d6-ac6b81565094.png">
+
+3. 템플릿에 맞추어 풀리퀘스트를 작성합니다.
+4. Assigness로 자신을, Reviewer로 다른 스터디원들을 등록합니다.
+
+<img src="https://user-images.githubusercontent.com/29997371/236587442-7f96946a-5e20-4a7c-aa2e-d46bedcbb301.png">
+
+6. 모든 리뷰가 끝나면 병합합니다.
 </details>
 
 ### Review
